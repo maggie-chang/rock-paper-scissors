@@ -1,6 +1,4 @@
 import random
-import ipywidgets
-
 #number_of_rounds = input("How many rounds do you want to play")
 #rock = 1
 #paper = 2
